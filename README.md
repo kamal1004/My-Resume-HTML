@@ -1,2 +1,2 @@
-# My-Resume-HTML
-MY first resume in HTML
+Download the file
+Open in chrome.
